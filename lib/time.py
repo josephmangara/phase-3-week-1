@@ -12,4 +12,6 @@ def converting_time(hour, minute,period):
         return converted_hour + converted_minute
     else:
         return "invalid input"
+    
+#example
 print(converting_time(6, 7, "pm"))
