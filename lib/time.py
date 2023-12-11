@@ -14,4 +14,4 @@ def converting_time(hour, minute,period):
         return "invalid input"
     
 #example
-print(converting_time(6, 7, "pm"))
+print(converting_time(11,59, "pm"))

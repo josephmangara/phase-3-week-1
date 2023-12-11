@@ -9,5 +9,5 @@ def positive_numbers(a, b, c):
     else:
         answer = "False"
     return answer
-print(positive_numbers(-9,-44,-5))
+print(positive_numbers(-9,14,5))
 
